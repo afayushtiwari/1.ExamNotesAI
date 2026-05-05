@@ -30,6 +30,21 @@ It combines **AI (Gemini API)** with a **MERN stack architecture** to deliver a 
 
 ---
 
+# 🚀 ExamNotesAI
+
+<p align="center">
+  <a href="https://one-examnotesaiclient-vlnk.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20App-Visit-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+## 🌐 Live Links
+- 🚀 Frontend: https://one-examnotesaiclient-vlnk.onrender.com/
+- ⚙️ Backend: https://one-examnotesaiserver-vw3u.onrender.com/
+
+---
+
+
 ## ✨ Key Features  
 
 - 🔐 Google Authentication (Firebase)  
