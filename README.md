@@ -84,10 +84,6 @@ ExamNotesAI/
 git clone https://github.com/afayushtiwari/1.ExamNotesAI.git
 cd 1.ExamNotesAI
 
----
-
-git clone https://github.com/afayushtiwari/1.ExamNotesAI.git
-cd 1.ExamNotesAI
 cd server
 npm install
 npm run dev
@@ -95,6 +91,7 @@ npm run dev
 ---
 
 ### 3️⃣ Setup Frontend  
+
 cd client
 npm install
 npm run dev
@@ -133,8 +130,11 @@ User → Buy Credits (Stripe) → Webhook → Update DB → Use Credits for AI G
 ## 📸 Screenshots  
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Add+Your+App+Screenshot+Here" width="80%">
+ <img width="1863" height="907" alt="image" src="https://github.com/user-attachments/assets/a915f309-a498-427e-9c4d-7fdc691e28ce" />
+ <img width="1914" height="913" alt="image" src="https://github.com/user-attachments/assets/936f01d7-a56c-4248-9717-71c3360a197c" />
+ <img width="1911" height="310" alt="image" src="https://github.com/user-attachments/assets/5cd19c65-c9d8-49c1-bca0-2047b0f187b2" />
 </p>
+
 
 ---
 
